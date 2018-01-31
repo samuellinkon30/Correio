@@ -1,0 +1,18 @@
+#slide
+{
+	background-image: url("assets/ft1.jpg");
+	width: 200; 
+	height: 200px;
+	background-size: cover;
+	margin: 20%;
+}
+
+.nav-bg
+{
+	background-color: #e89f00;
+}
+.caixa
+{
+	width: 50px;
+	height: 30;
+}

@@ -1,0 +1,19 @@
+
+.title
+{
+
+}
+.col
+{
+}
+.row
+{
+	text-align: center;
+}
+@media screen and (min-width: 540px)
+{
+	.row
+	{
+		text-align: left;
+	}
+}
