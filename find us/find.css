@@ -1,0 +1,38 @@
+.fa{
+	color: black;
+}
+.ico1
+{
+	float: left;
+}
+
+.txt1
+{
+	float: left;
+}
+
+.corpo
+{
+	text-align: center;
+	padding: 25px;
+}
+.mapa
+{
+	
+	width: 200;
+	height: 200px;
+}
+@media screen and (min-width: 540px)
+{
+	.mapa
+	{
+		float: left;
+		width: 500px;
+		height: 300px;
+	}
+	.txtg
+	{
+		margin-left: 20px;
+		float: left;
+	}
+}
